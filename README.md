@@ -26,5 +26,6 @@ OpenBin is a smart, contactless dustbin that automatically opens when a user app
 4. After a delay, the lid closes.
 
 ### Demo
+https://github.com/user-attachments/assets/3f63b782-c8a4-4109-ab65-01bcb8ebdea7
 
-![Demo video of step 1](http://github.com/Sanonda404/OpenBin/blob/main/media/step1_demo.mp4)
+
