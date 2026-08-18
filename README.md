@@ -11,7 +11,7 @@ OpenBin is a smart, contactless dustbin that automatically opens when a user app
 - When >= 85% filled sends notification to clean
 - After 95% fill locks lid until cleaned
 
-**We divide whole in two steps:**
+### **We divide whole in two steps:**
 ## Step 1: Making smart, contactless dustbin that automatically opens when a user approaches.
    We complete this step using arduino uno later migrate to esp32 in next step.
 ### Circuit
@@ -27,4 +27,4 @@ OpenBin is a smart, contactless dustbin that automatically opens when a user app
 
 ### Demo
 
-[GIF/video here]
+![Demo video of step 1](http://github.com/Sanonda404/OpenBin/blob/main/media/step1_demo.mp4)
