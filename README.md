@@ -15,8 +15,8 @@ OpenBin is a smart, contactless dustbin that automatically opens when a user app
 ## Step 1: Making smart, contactless dustbin that automatically opens when a user approaches.
    We complete this step using arduino uno later migrate to esp32 in next step.
 ### Circuit
+<img width="643" height="366" alt="image" src="https://github.com/user-attachments/assets/a51bc09d-b016-4a05-826a-fde796f8aa38" />
 
-[diagram here]
 
 ### How It Works
 
